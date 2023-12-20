@@ -73,6 +73,15 @@
 			path = Utillity;
 			sourceTree = "<group>";
 		};
+		70109F212B2DCBB600F67DE6 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				70BBFE0E2AE64BC800667B19 /* ProductCell.swift */,
+				70BBFE0F2AE64BC800667B19 /* ProductCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
 		70A6F4C92ADFA4CA0073200A = {
 			isa = PBXGroup;
 			children = (
@@ -186,8 +195,7 @@
 		70A6F4F22ADFAACC0073200A /* View */ = {
 			isa = PBXGroup;
 			children = (
-				70BBFE0E2AE64BC800667B19 /* ProductCell.swift */,
-				70BBFE0F2AE64BC800667B19 /* ProductCell.xib */,
+				70109F212B2DCBB600F67DE6 /* Cell */,
 				7003387E2AE6875100FCEC68 /* Controller */,
 			);
 			path = View;
